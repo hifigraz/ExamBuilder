@@ -1,0 +1,9 @@
+Popen
+chdir
+copy2
+curdir
+epilog
+joinpath
+linesep
+prog
+rmdir

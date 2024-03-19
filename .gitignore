@@ -1,0 +1,7 @@
+venv
+*.pyc
+*.egg-info
+__pycache__
+
+20231031_example.course_example.name_example.class_A.*
+20231031_example.course_example.name_example.class_B.*
